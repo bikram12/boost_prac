@@ -1,0 +1,22 @@
+BOOST_FOREACH(boost::property_tree::ptree::value_type &v,pt.get_child("datoscotizaciones"))
+	{
+		boost::property_tree::ptree pt1  =	v.second;
+
+		BOOST_FOREACH(boost::property_tree::ptree::value_type &v1,pt1)
+		{
+			string value = v1.first;
+
+			if (value == "Nombre")
+			{
+				string value2 = v1.second.data();
+
+				if (value2 == "UNIDAD INDEXADA")
+				{
+					//string result = v1.second.get_value("datoscotizaciones.dato/TCV");
+					string result1 = v1.second.get<string>("TCV");
+					cout << "Result= " << result1 << endl;
+				}
+			}
+
+			//string value1= v1.second.data();
+		}

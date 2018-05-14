@@ -1,0 +1,101 @@
+<datoscotizaciones xmlns="Cotiza">
+  <datoscotizaciones.dato xmlns="Cotiza">
+    <Fecha>2018-05-09</Fecha>
+    <Moneda>501</Moneda>
+    <Nombre>PESO ARG.BILLETE</Nombre>
+    <CodigoISO>ARS</CodigoISO>
+    <Emisor>ARGENTINA</Emisor>
+    <TCC>1.366000</TCC>
+    <TCV>1.366000</TCV>
+    <ArbAct>22.693500</ArbAct>
+    <FormaArbitrar>0</FormaArbitrar>
+  </datoscotizaciones.dato>
+  <datoscotizaciones.dato xmlns="Cotiza">
+    <Fecha>2018-05-09</Fecha>
+    <Moneda>1001</Moneda>
+    <Nombre>REAL BILLETE</Nombre>
+    <CodigoISO>R$</CodigoISO>
+    <Emisor>BRASIL</Emisor>
+    <TCC>8.579000</TCC>
+    <TCV>8.579000</TCV>
+    <ArbAct>3.600950</ArbAct>
+    <FormaArbitrar>0</FormaArbitrar>
+  </datoscotizaciones.dato>
+  <datoscotizaciones.dato xmlns="Cotiza">
+    <Fecha>2018-05-09</Fecha>
+    <Moneda>2223</Moneda>
+    <Nombre>DLS. USA FDO BCU</Nombre>
+    <CodigoISO>USD</CodigoISO>
+    <Emisor>ESTADOS UNIDOS</Emisor>
+    <TCC>30.455000</TCC>
+    <TCV>30.455000</TCV>
+    <ArbAct>1.000000</ArbAct>
+    <FormaArbitrar>0</FormaArbitrar>
+  </datoscotizaciones.dato>
+  <datoscotizaciones.dato xmlns="Cotiza">
+    <Fecha>2018-05-09</Fecha>
+    <Moneda>2224</Moneda>
+    <Nombre>DLS. USA CABLE</Nombre>
+    <CodigoISO>DLS.</CodigoISO>
+    <Emisor>ESTADOS UNIDOS</Emisor>
+    <TCC>30.455000</TCC>
+    <TCV>30.455000</TCV>
+    <ArbAct>1.000000</ArbAct>
+    <FormaArbitrar>0</FormaArbitrar>
+  </datoscotizaciones.dato>
+  <datoscotizaciones.dato xmlns="Cotiza">
+    <Fecha>2018-05-09</Fecha>
+    <Moneda>2225</Moneda>
+    <Nombre>DLS. USA BILLETE</Nombre>
+    <CodigoISO>DLS.</CodigoISO>
+    <Emisor>ESTADOS UNIDOS</Emisor>
+    <TCC>30.455000</TCC>
+    <TCV>30.455000</TCV>
+    <ArbAct>1.000000</ArbAct>
+    <FormaArbitrar>0</FormaArbitrar>
+  </datoscotizaciones.dato>
+  <datoscotizaciones.dato xmlns="Cotiza">
+    <Fecha>2018-05-09</Fecha>
+    <Moneda>2230</Moneda>
+    <Nombre>DLS.PROMED.FONDO</Nombre>
+    <CodigoISO>U$A</CodigoISO>
+    <Emisor>URUGUAY</Emisor>
+    <TCC>30.455000</TCC>
+    <TCV>30.455000</TCV>
+    <ArbAct>1.000000</ArbAct>
+    <FormaArbitrar>0</FormaArbitrar>
+  </datoscotizaciones.dato>
+  <datoscotizaciones.dato xmlns="Cotiza">
+    <Fecha>2018-05-09</Fecha>
+    <Moneda>9800</Moneda>
+    <Nombre>UNIDAD INDEXADA</Nombre>
+    <CodigoISO>U.I.</CodigoISO>
+    <Emisor>URUGUAY</Emisor>
+    <TCC>3.863400</TCC>
+    <TCV>3.863400</TCV>
+    <ArbAct>0.128956</ArbAct>
+    <FormaArbitrar>1</FormaArbitrar>
+  </datoscotizaciones.dato>
+  <datoscotizaciones.dato xmlns="Cotiza">
+    <Fecha>2018-05-09</Fecha>
+    <Moneda>9900</Moneda>
+    <Nombre>UNIDAD REAJUSTAB</Nombre>
+    <CodigoISO>U.R.</CodigoISO>
+    <Emisor>URUGUAY</Emisor>
+    <TCC>1069.990000</TCC>
+    <TCV>1069.990000</TCV>
+    <ArbAct>0.000000</ArbAct>
+    <FormaArbitrar>0</FormaArbitrar>
+  </datoscotizaciones.dato>
+  <datoscotizaciones.dato xmlns="Cotiza">
+    <Fecha>2018-05-10</Fecha>
+    <Moneda>9800</Moneda>
+    <Nombre>UNIDAD INDEXADA</Nombre>
+    <CodigoISO>U.I.</CodigoISO>
+    <Emisor>URUGUAY</Emisor>
+    <TCC>3.863500</TCC>
+    <TCV>3.863500</TCV>
+    <ArbAct>0.000000</ArbAct>
+    <FormaArbitrar>1</FormaArbitrar>
+  </datoscotizaciones.dato>
+</datoscotizaciones>

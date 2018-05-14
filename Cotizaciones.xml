@@ -1,0 +1,13 @@
+<datoscotizaciones xmlns="Cotiza">
+  <datoscotizaciones.dato xmlns="Cotiza">
+    <Fecha>2018-04-12</Fecha>
+    <Moneda>9800</Moneda>
+    <Nombre>UNIDAD INDEXADA</Nombre>
+    <CodigoISO>U.I.</CodigoISO>
+    <Emisor>URUGUAY</Emisor>
+    <TCC>3.854800</TCC>
+    <TCV>3.854800</TCV>
+    <ArbAct>0.000000</ArbAct>
+    <FormaArbitrar>1</FormaArbitrar>
+  </datoscotizaciones.dato>
+</datoscotizaciones>
